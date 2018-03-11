@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, WebVR! - A-Frame</title>
+    <meta name="description" content="Hello, WebVR! - A-Frame">
+    <script src="https://aframe.io/releases/0.8.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene> 
+      <a-sky src="https://cdn.glitch.com/687b5562-331c-4c95-8ea9-28b54b4b04b1%2Fimagenpaisaje.jpg?1520767293539"></a-sky>
+    </a-scene>
+  </body>
+</html>
